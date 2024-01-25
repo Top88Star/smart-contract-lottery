@@ -1,3 +1,10 @@
+# Random Raffle Contracts
+
+## About
+
+1. Users can enter the lottery by paying for a ticket
+2. After a period of time, the lottery will draw a
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
